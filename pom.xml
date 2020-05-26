@@ -14,6 +14,15 @@
         <module>day01_eesy_03spring</module>
         <module>day01_eesy_04bean</module>
         <module>day01_eesy_05DI</module>
+        <module>day02_eesy_01anno_ioc</module>
+        <module>day02_eesy_02account_xmlioc</module>
+        <module>day02_eesy_03account_annoioc</module>
+        <module>day02_eesy_04account_annoioc_withoutxml</module>
+        <module>day03_eesy_01account</module>
+        <module>day03_eesy_02proxy</module>
+        <module>day03_eesy_03springAOP</module>
+        <module>day03_eesy_04adviceType</module>
+        <module>day03_eesy_05annotationAOP</module>
     </modules>
 
 

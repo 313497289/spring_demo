@@ -1,0 +1,6 @@
+# Project exclude paths
+/day01_eesy_01jdbc/target/
+/day01_eesy_02factory/target/
+/day01_eesy_03spring/target/
+/day01_eesy_04bean/target/
+/day01_eesy_05DI/target/
