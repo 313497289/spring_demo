@@ -23,6 +23,15 @@
         <module>day03_eesy_03springAOP</module>
         <module>day03_eesy_04adviceType</module>
         <module>day03_eesy_05annotationAOP</module>
+        <module>day04_eesy_01jdbctemplate</module>
+        <module>day04_eesy_02account_aoptx_xml</module>
+        <module>day04_eesy_03account_aoptx_anno</module>
+        <module>day04_eesy_04tx</module>
+        <module>day04_eesy_05tx_xml</module>
+        <module>day04_eesy_06tx_anno</module>
+        <module>day04_eesy_07anno_tx_withoutxml</module>
+        <module>day04_eesy_08account_tx</module>
+        <module>day04_eesy_09jdk8</module>
     </modules>
 
 
